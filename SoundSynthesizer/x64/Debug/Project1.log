@@ -1,0 +1,9 @@
+﻿  main1.cpp
+D:\zsynthesiser\Project1\olcNoisemaker.h(56,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\zsynthesiser\Project1\olcNoisemaker.h(37): message : while compiling class template member function 'bool olcNoiseMaker<short>::Create(std::wstring,unsigned int,unsigned int,unsigned int,unsigned int)'
+D:\zsynthesiser\Project1\olcNoisemaker.h(28): message : see reference to function template instantiation 'bool olcNoiseMaker<short>::Create(std::wstring,unsigned int,unsigned int,unsigned int,unsigned int)' being compiled
+D:\zsynthesiser\Project1\main1.cpp(32): message : see reference to class template instantiation 'olcNoiseMaker<short>' being compiled
+D:\zsynthesiser\Project1\olcNoisemaker.h(184,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcNoiseMaker<short> *' of greater size
+D:\zsynthesiser\Project1\olcNoisemaker.h(183): message : while compiling class template member function 'void olcNoiseMaker<short>::waveOutProcWrap(HWAVEOUT,UINT,DWORD,DWORD,DWORD)'
+D:\zsynthesiser\Project1\olcNoisemaker.h(67): message : see reference to function template instantiation 'void olcNoiseMaker<short>::waveOutProcWrap(HWAVEOUT,UINT,DWORD,DWORD,DWORD)' being compiled
+  Project1.vcxproj -> D:\zsynthesiser\Project1\x64\Debug\Project1.exe
